@@ -13,7 +13,9 @@ This project scrapes customer reviews of the **Apple iPhone 13 (Green, 128 GB)**
 - ✅ Performs POS tagging and lemmatization
 - ✅ Applies **VADER sentiment analysis**
 - ✅ Categorizes sentiment into **Positive**, **Negative**, and **Neutral**
-- ✅ Visualizes the most frequent review words using a **Word Cloud**
+- ✅ Visualizes results with:
+  - ☁️ **Word Cloud** of most frequent review words
+  - 🥧 **Pie Chart** of sentiment distribution
 
 ---
 
