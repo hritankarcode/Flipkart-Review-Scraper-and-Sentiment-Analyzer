@@ -150,3 +150,9 @@ def show_wordcloud(data):
 
 show_wordcloud(df.Lemma)
 
+plt.figure(figsize=(15,7))
+
+plt.subplot(1,3,2)
+plt.title("Reviews Analysis")
+plt.pie(vader_counts.values, labels = vader_counts.index, explode = (0, 0, 0.25), autopct='%1.1f%%', shadow=False)
+plt.show()
