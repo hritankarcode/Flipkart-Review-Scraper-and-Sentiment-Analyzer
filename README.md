@@ -32,5 +32,23 @@ This project scrapes customer reviews of the **Apple iPhone 13 (Green, 128 GB)**
 
 ---
 
+## 📊 Output
+
+Below are the visualizations generated from the scraped Flipkart reviews:
+
+### ☁️ Word Cloud
+
+A word cloud showing the most frequent words used in the customer reviews after cleaning and lemmatization.
+
+![Word Cloud](images/wordcloud.png)
+
+---
+
+### 🥧 Sentiment Distribution (Pie Chart)
+
+A pie chart showing the proportion of reviews that are Positive, Neutral, or Negative based on VADER sentiment scores.
+
+![Pie Chart](images/piechart.png)
+
 
 
