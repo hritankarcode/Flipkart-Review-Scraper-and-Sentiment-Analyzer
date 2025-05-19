@@ -40,7 +40,7 @@ Below are the visualizations generated from the scraped Flipkart reviews:
 
 A word cloud showing the most frequent words used in the customer reviews after cleaning and lemmatization.
 
-![Word Cloud](images/wordcloud.png)
+![Word Cloud](Figure_11.png)
 
 ---
 
@@ -48,7 +48,7 @@ A word cloud showing the most frequent words used in the customer reviews after 
 
 A pie chart showing the proportion of reviews that are Positive, Neutral, or Negative based on VADER sentiment scores.
 
-![Pie Chart](images/piechart.png)
+![Pie Chart](Figure_2.png)
 
 
 
